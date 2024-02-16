@@ -19,7 +19,7 @@ function Header() {
                     <li><a href="https://github.com/yofp1937" class="icon brands fa-github"><span class="label">Github</span></a></li>
                 </ul>
                 <ul class="copyright">
-                    <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    <li>&copy; Strata</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                 </ul>
             </div>
         </footer>
